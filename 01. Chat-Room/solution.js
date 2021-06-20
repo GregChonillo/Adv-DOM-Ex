@@ -11,3 +11,4 @@ function solve() {
 		sndTxtArea.value = "";
 	});
 }
+//greg was here
